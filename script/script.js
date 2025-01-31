@@ -227,11 +227,11 @@ document.addEventListener("DOMContentLoaded", function () {
       }
   })
 
-  // window.addEventListener('load', function () {
-  //   setTimeout(function () {
-  //       popupOpen(popup1);
-  //   }, 5000);
-  // });
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+        popupOpen(popup1);
+    }, 5000);
+  });
 
   // ***********************************************************************
   
